@@ -1,0 +1,1 @@
+SARIMAX and VARMAX - simpler than RNN an easier to interpret.
